@@ -1,50 +1,29 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: The Aurora Group
+image: /img/banner/Aurora-Web-Banner-1-1170x400.jpg
+heading: What we do
+subheading: For the little groups doing big things
 mainpitch:
-  title: Why Kaldi
+  title: Our Story
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Aurora exists so people can support a broad range of projects responding to the coalface needs of our community. We are the organisation people choose when they want their money to benefit the little groups doing big things.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Supporting Aurora means you join us in our commitment to raise funds through events that engage and celebrate the LGBTIQ community while empowering grass roots organisations to have the capacity to maximise their outreach and impact and ensure their projects are successfully realised.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/home/about.jpg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        We are a fundraising organisation that people choose when they want their money to benefit the community as a whole.
+    - image: /img/home/grants.jpg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
+        We are proud to support a wide range of issues in LGBT communities in New South Wales, particularly those that struggle to gain the support of government or other community fundraising.
+    - image: /img/home/donate.jpg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
+        Aurora relies on the generosity of our donors to provide financial support to projects and organisations benefitting gay, lesbian, bisexual and transgender communities in NSW.
+    - image: /img/home/events.jpg
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        From the prestigious Aurora Ball to our Appetite Dinner series, we host a variety of fundraising events throughout the year where we showcase and develop success stories.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
