@@ -1,34 +1,32 @@
 ---
 templateKey: 'blog-post'
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
+title: 'AURORA GIVES RECORD GRANTS TO LGBTIQ PROJECTS'
 date: 2017-01-04T15:04:10.000Z
 featuredpost: true
 description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+  The Aurora Group is ringing in the new decade by supporting a record number of grants for powerful LGBTIQ+ community projects. 
 tags:
-  - jamaica
-  - green beans
-  - flavor
-  - tasting
+  - grants
+  - news
 ---
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
+The Aurora Group is ringing in the new decade by supporting a record number of grants for powerful LGBTIQ+ community projects.
 
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
+“This year, we are delighted to announce that a record 14 organisations will share in funding to support essential projects and empower the LGBTIQ+ community,” said Aurora Chair, Sam Turner.
 
-## A little history
+“After receiving a high number of applications and going through a difficult decision-making process, Aurora is proud to be able to spread funding from Tamworth and surrounds, to Western Sydney, the Hunter and digitally across the nation in 2020,” Sam said.
 
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
+“Aurora exists to help ensure LGBTIQ+ people and communities are not left behind. This year we have a strong focus on projects that support young people and people of colour, as well as the trans and gender diverse community, in projects that reach far beyond the city centre.”
 
->Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
+## Proud partner
 
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
+Westpac has again shown their support, kicking in $10,000 for a Special Grant over two years that will support OutLoud to run a project collaborating with the Muslim community to provide a mental health safety net for young LGBTIQ+ people in South West Sydney.
 
-## What you need to know before trying
+And PwC Australia, along with Westpac, continue to support Special Grants in their second year of funding in 2020.
 
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
+## The full list of projects supported by Aurora in 2020 include: 
 
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
-
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
+- Blacktown Youth Services Association together with AllOut Blacktown – Establishing a safe space for LGBTIQ+ young people in the Blacktown area;
+- Tamworth Aboriginal Medical Services – Establishing a youth network for LGBTIQ+ identifying people across the Tamworth and Gunnedah region with specialist support;
+- Hunter Gender Alliance – Delivering a series of workshops for trans and gender diverse young people in the Hunter Region;
+- Westwords – Supporting a series of workshops and public events for an LGBTIQ+ Writers’ Group in Western Sydney;
