@@ -5,25 +5,36 @@ image: /img/banner/Aurora-Web-Banner-1-1170x400.jpg
 heading: What we do
 subheading: For the little groups doing big things
 mainpitch:
-  title: Our Story
+  title: Our story
   description: >
-    Aurora exists so people can support a broad range of projects responding to the coalface needs of our community. We are the organisation people choose when they want their money to benefit the little groups doing big things.
-description: >-
-  Supporting Aurora means you join us in our commitment to raise funds through events that engage and celebrate the LGBTIQ community while empowering grass roots organisations to have the capacity to maximise their outreach and impact and ensure their projects are successfully realised.
+    Aurora exists so people can support a broad range of projects responding to
+    the coalface needs of our community. We are the organisation people choose
+    when they want their money to benefit the little groups doing big things.
+description: Supporting Aurora means you join us in our commitment to raise
+  funds through events that engage and celebrate the LGBTIQ community while
+  empowering grass roots organisations to have the capacity to maximise their
+  outreach and impact and ensure their projects are successfully realised.
 intro:
   blurbs:
     - image: /img/home/about.jpg
       text: >
-        We are a fundraising organisation that people choose when they want their money to benefit the community as a whole.
+        We are a fundraising organisation that people choose when they want
+        their money to benefit the community as a whole.
     - image: /img/home/grants.jpg
       text: >
-        We are proud to support a wide range of issues in LGBT communities in New South Wales, particularly those that struggle to gain the support of government or other community fundraising.
+        We are proud to support a wide range of issues in LGBT communities in
+        New South Wales, particularly those that struggle to gain the support of
+        government or other community fundraising.
     - image: /img/home/donate.jpg
       text: >
-        Aurora relies on the generosity of our donors to provide financial support to projects and organisations benefitting gay, lesbian, bisexual and transgender communities in NSW.
+        Aurora relies on the generosity of our donors to provide financial
+        support to projects and organisations benefitting gay, lesbian, bisexual
+        and transgender communities in NSW. Hello world
     - image: /img/home/events.jpg
       text: >
-        From the prestigious Aurora Ball to our Appetite Dinner series, we host a variety of fundraising events throughout the year where we showcase and develop success stories.
+        From the prestigious Aurora Ball to our Appetite Dinner series, we host
+        a variety of fundraising events throughout the year where we showcase
+        and develop success stories.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
